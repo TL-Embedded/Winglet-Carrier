@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "bbb905ef-a222-43ea-83e2-d1132f7d94bb")
 	(paper "A4")
+	(title_block
+		(title "Winglet Carrier Board")
+		(date "2024-08-09")
+		(rev "v1.0")
+		(company "TL Embedded")
+	)
 	(lib_symbols
 		(symbol "M_Mechanical:Mount_M3"
 			(exclude_from_sim no)
@@ -362,7 +368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e8d656d-80dc-464f-8dbf-cbf8dbc3a7c4")
-		(property "Reference" "N5"
+		(property "Reference" "N3"
 			(at 40.64 110.4899 0)
 			(effects
 				(font
@@ -410,7 +416,7 @@
 		(instances
 			(project "Winglet-Carrier"
 				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
-					(reference "N5")
+					(reference "N3")
 					(unit 1)
 				)
 			)
@@ -490,7 +496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cb632c6-ed75-490d-b5b2-295af30c3760")
-		(property "Reference" "N4"
+		(property "Reference" "N2"
 			(at 40.64 105.4099 0)
 			(effects
 				(font
@@ -538,7 +544,7 @@
 		(instances
 			(project "Winglet-Carrier"
 				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
-					(reference "N4")
+					(reference "N2")
 					(unit 1)
 				)
 			)
@@ -554,7 +560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "845383cf-49b7-4e15-abf8-6436c6febac2")
-		(property "Reference" "N6"
+		(property "Reference" "N4"
 			(at 40.64 115.5699 0)
 			(effects
 				(font
@@ -602,7 +608,7 @@
 		(instances
 			(project "Winglet-Carrier"
 				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
-					(reference "N6")
+					(reference "N4")
 					(unit 1)
 				)
 			)
@@ -617,7 +623,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d7176db-9e9c-49e6-b208-537b66a1d9dc")
-		(property "Reference" "N3"
+		(property "Reference" "N1"
 			(at 40.64 100.3299 0)
 			(effects
 				(font
@@ -665,7 +671,7 @@
 		(instances
 			(project ""
 				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
-					(reference "N3")
+					(reference "N1")
 					(unit 1)
 				)
 			)
