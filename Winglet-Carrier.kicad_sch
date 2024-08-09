@@ -1,0 +1,1279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "bbb905ef-a222-43ea-83e2-d1132f7d94bb")
+	(paper "A4")
+	(lib_symbols
+		(symbol "M_Mechanical:Mount_M3"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "M"
+				(at -1.27 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Mount_M3"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "M_Mechanical:Mount_M3"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at -20.32 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Mount_M3_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+		(symbol "N_NonPart:ToolingHole_1mm"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "N"
+				(at 0 3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "ToolingHole"
+				(at 0 -2.794 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "N_NonPart:ToolingHole_1mm"
+				(at 0.254 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "TOOLING HOLE 1MM"
+				(at 0 -6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ToolingHole_1mm_1_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 165.1 43.18) (xy 190.5 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "021a8a96-1641-4761-bc4f-e6b1c3d02cea")
+	)
+	(wire
+		(pts
+			(xy 101.6 38.1) (xy 127 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17b4aabe-d74c-469e-b773-d164a3dfdcea")
+	)
+	(wire
+		(pts
+			(xy 101.6 35.56) (xy 127 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1992d8bb-a3c5-452f-b507-5ad89bca563c")
+	)
+	(wire
+		(pts
+			(xy 165.1 48.26) (xy 190.5 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f6f7bd9-e015-4bbb-9284-c12b97b9fd2b")
+	)
+	(wire
+		(pts
+			(xy 165.1 63.5) (xy 190.5 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20d827e7-f45e-4c98-b4e5-90928a36fe54")
+	)
+	(wire
+		(pts
+			(xy 101.6 90.17) (xy 190.5 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21e38b84-7b49-4994-8a81-b6445cd94c34")
+	)
+	(wire
+		(pts
+			(xy 165.1 53.34) (xy 190.5 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28743e4b-c8a3-48da-9e74-ff7ba8a68a32")
+	)
+	(wire
+		(pts
+			(xy 165.1 35.56) (xy 190.5 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c56ca5-7a6b-454c-8fc0-fb27a3445191")
+	)
+	(wire
+		(pts
+			(xy 101.6 87.63) (xy 190.5 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef22f55-88aa-4755-8ab5-1a9aa92705b8")
+	)
+	(wire
+		(pts
+			(xy 165.1 45.72) (xy 190.5 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50b2b3e1-c854-4b15-a3ad-40209661aef3")
+	)
+	(wire
+		(pts
+			(xy 165.1 60.96) (xy 190.5 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51fa7dff-fcd5-4666-b4c5-1f501c0d3662")
+	)
+	(wire
+		(pts
+			(xy 101.6 85.09) (xy 190.5 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e639602-84e8-4d40-9d2a-ab37a5eeb1d4")
+	)
+	(wire
+		(pts
+			(xy 165.1 40.64) (xy 190.5 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7359f23b-71ea-44e6-aa88-34d78af37532")
+	)
+	(wire
+		(pts
+			(xy 165.1 50.8) (xy 190.5 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c504bc05-3d67-41af-af11-90ad7cb84348")
+	)
+	(wire
+		(pts
+			(xy 165.1 71.12) (xy 190.5 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f01f0b7a-f136-49b9-bbb4-4745573f484f")
+	)
+	(wire
+		(pts
+			(xy 165.1 68.58) (xy 190.5 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5392672-8e80-4cd6-8ea0-546b468dd6a1")
+	)
+	(symbol
+		(lib_id "M_Mechanical:Mount_M3")
+		(at 38.1 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0843cfb7-26c5-4eb6-821c-cc2de0d33a3b")
+		(property "Reference" "M4"
+			(at 40.64 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mount_M3"
+			(at 40.64 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "M_Mechanical:Mount_M3"
+			(at 38.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "M4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "N_NonPart:ToolingHole_1mm")
+		(at 38.1 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e8d656d-80dc-464f-8dbf-cbf8dbc3a7c4")
+		(property "Reference" "N5"
+			(at 40.64 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ToolingHole"
+			(at 40.64 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N_NonPart:ToolingHole_1mm"
+			(at 38.1 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOOLING HOLE 1MM"
+			(at 38.1 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "N5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M_Mechanical:Mount_M3")
+		(at 38.1 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60d4af77-c4a8-4cbb-ad85-8c3b4b9471e4")
+		(property "Reference" "M3"
+			(at 40.64 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mount_M3"
+			(at 40.64 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "M_Mechanical:Mount_M3"
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "M3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "N_NonPart:ToolingHole_1mm")
+		(at 38.1 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7cb632c6-ed75-490d-b5b2-295af30c3760")
+		(property "Reference" "N4"
+			(at 40.64 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ToolingHole"
+			(at 40.64 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N_NonPart:ToolingHole_1mm"
+			(at 38.1 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOOLING HOLE 1MM"
+			(at 38.1 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "N4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "N_NonPart:ToolingHole_1mm")
+		(at 38.1 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "845383cf-49b7-4e15-abf8-6436c6febac2")
+		(property "Reference" "N6"
+			(at 40.64 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ToolingHole"
+			(at 40.64 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N_NonPart:ToolingHole_1mm"
+			(at 38.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOOLING HOLE 1MM"
+			(at 38.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "N6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "N_NonPart:ToolingHole_1mm")
+		(at 38.1 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d7176db-9e9c-49e6-b208-537b66a1d9dc")
+		(property "Reference" "N3"
+			(at 40.64 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ToolingHole"
+			(at 40.64 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "N_NonPart:ToolingHole_1mm"
+			(at 38.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOOLING HOLE 1MM"
+			(at 38.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "N3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M_Mechanical:Mount_M3")
+		(at 38.1 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2a56400-300d-4221-8efa-579ac29b7a13")
+		(property "Reference" "M2"
+			(at 40.64 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mount_M3"
+			(at 40.64 80.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "M_Mechanical:Mount_M3"
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "M2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "M_Mechanical:Mount_M3")
+		(at 38.1 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1ac22fb-4e3f-490b-96b8-281fd9ff062f")
+		(property "Reference" "M1"
+			(at 40.64 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mount_M3"
+			(at 40.64 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "M_Mechanical:Mount_M3"
+			(at 38.1 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(reference "M1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 31.75)
+		(size 25.4 62.23)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 175 255 191 1.0000)
+		)
+		(uuid "660a82c3-3048-4bd7-90de-0f4f117d8c92")
+		(property "Sheetname" "Modem"
+			(at 190.5 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "modem.kicad_sch"
+			(at 190.5 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MODEM_WAKE" input
+			(at 190.5 40.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dcf822a4-6111-4a7a-8239-d5506919ce76")
+		)
+		(pin "MODEM_DCD" output
+			(at 190.5 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4781977b-8bf0-4cc7-ad96-f751811ebeaf")
+		)
+		(pin "MODEM_DTR" input
+			(at 190.5 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "eba3d773-2e39-466e-8092-febabf7001c2")
+		)
+		(pin "MODEM_RESET" input
+			(at 190.5 43.18 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ea65cd41-fb42-42b4-a301-7fa09c0797fd")
+		)
+		(pin "MODEM_USB_VBUS" input
+			(at 190.5 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "eb5c64b4-ff2c-4350-941b-03e84b41539e")
+		)
+		(pin "MODEM_USB_DM" bidirectional
+			(at 190.5 90.17 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dfa86588-ae23-426b-9f5c-50ae6bb7bd8d")
+		)
+		(pin "MODEM_USB_DP" bidirectional
+			(at 190.5 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7ccfab2e-5ffa-4898-a712-941027d44b9c")
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 190.5 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ab93db58-24b1-4f48-80cb-0e947118076e")
+		)
+		(pin "I2C_SCL" bidirectional
+			(at 190.5 68.58 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "239d34f2-7484-4191-b7fc-b7e9aa127252")
+		)
+		(pin "MODEM_RX" output
+			(at 190.5 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "45d6447b-81d1-4483-a659-c0fbcc188a92")
+		)
+		(pin "MODEM_TX" input
+			(at 190.5 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "07dba107-67e7-4747-a01c-77cf9d5720e6")
+		)
+		(pin "AUX_TX" input
+			(at 190.5 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "88807769-1eaf-4fac-a509-6aad2922fd96")
+		)
+		(pin "AUX_RX" output
+			(at 190.5 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "87845129-6ab1-4748-8661-2f074e6ea4aa")
+		)
+		(pin "MODEM_PWR_EN" input
+			(at 190.5 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f8c40243-ad08-4bbb-8efc-f16e61a061e4")
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 31.75)
+		(size 38.1 43.18)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 175 255 191 1.0000)
+		)
+		(uuid "6fc44d7f-b41f-4ce5-97e7-45ff3882061f")
+		(property "Sheetname" "MCU"
+			(at 127 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 127 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 165.1 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "692f90d2-df17-4ec4-8090-ef72797696be")
+		)
+		(pin "I2C_SCL" bidirectional
+			(at 165.1 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9693730d-5459-47b3-9a13-778115b801a0")
+		)
+		(pin "USB_HOST_DM" bidirectional
+			(at 127 38.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8685ff90-9cb1-48fe-ac82-7d82fa01a6cb")
+		)
+		(pin "USB_HOST_DP" bidirectional
+			(at 127 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c3067468-b74c-47c1-8fea-79d9591f7c9a")
+		)
+		(pin "MODEM_RX" input
+			(at 165.1 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2c9c9690-d442-4a73-9756-c6842ca76549")
+		)
+		(pin "MODEM_DCD" input
+			(at 165.1 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "77a5372b-cbef-40b6-b19d-a4ef382a8760")
+		)
+		(pin "MODEM_RESET" output
+			(at 165.1 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "05276b69-a0c8-41ca-80d1-e87dae8d21c5")
+		)
+		(pin "MODEM_TX" output
+			(at 165.1 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ed62b12b-b638-48ba-af51-fb53bcb923ad")
+		)
+		(pin "MODEM_WAKE" output
+			(at 165.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6dd2936e-9874-4316-afca-262fc5c1aecf")
+		)
+		(pin "MODEM_DTR" output
+			(at 165.1 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fbf12f28-cabc-48e0-9d46-f9cbfb257ae3")
+		)
+		(pin "AUX_TX" output
+			(at 165.1 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "96bebfa4-2994-4a7e-bf55-c12b0941c1a1")
+		)
+		(pin "AUX_RX" input
+			(at 165.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fc4f1505-8a4a-4c80-9b06-9e8d5f639b9d")
+		)
+		(pin "MODEM_PWR_EN" output
+			(at 165.1 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ee0d472d-9c20-4a2f-a7f8-cdcd17b6ac39")
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 81.28)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 175 255 191 1.0000)
+		)
+		(uuid "b1159f78-859e-4998-9001-fd5ae922e822")
+		(property "Sheetname" "Modem USB"
+			(at 76.2 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "modem-usb.kicad_sch"
+			(at 76.2 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MODEM_USB_DM" bidirectional
+			(at 101.6 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "674712a0-1daa-4581-8f1a-4059e9b7d054")
+		)
+		(pin "MODEM_USB_DP" bidirectional
+			(at 101.6 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5461306b-d1e5-4682-af98-94bd115cc65c")
+		)
+		(pin "MODEM_USB_VBUS" output
+			(at 101.6 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fcdd40f1-18ee-451f-b10b-48937283b2b0")
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 31.75)
+		(size 25.4 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 175 255 191 1.0000)
+		)
+		(uuid "c327a527-aa7b-45f5-99fd-8bd1b67a4d25")
+		(property "Sheetname" "Host USB"
+			(at 76.2 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "host-usb.kicad_sch"
+			(at 76.2 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_HOST_DM" bidirectional
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "403cc4b4-e643-4573-91a0-8b59708ec6dd")
+		)
+		(pin "USB_HOST_DP" bidirectional
+			(at 101.6 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "21d52db1-d8a4-43f4-a296-ef98f4eaf8ad")
+		)
+		(instances
+			(project "Winglet-Carrier"
+				(path "/bbb905ef-a222-43ea-83e2-d1132f7d94bb"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
